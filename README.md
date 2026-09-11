@@ -1,12 +1,9 @@
 # Rindrit Telaku
-
-**Data & AI Engineer** — Pipelines, retrieval systems, backend infrastructure
+DATA & AI Engineer - Pipelines , Retrieval Systems, Backend Infrastructures
 
 Building reliable systems that turn raw data into useful products — data pipelines, ETL, and AWS-based retrieval systems.
 
----
-
-## Stack
+## Tech Stack
 
 - **Languages:** Python · TypeScript · SQL
 - **Cloud:** AWS (S3, Glue, Athena)
@@ -14,11 +11,6 @@ Building reliable systems that turn raw data into useful products — data pipel
 - **AI / Retrieval:** RAG · FAISS · LangChain · Ollama
 - **Backend:** FastAPI · Docker
 - **Analytics:** Streamlit · Altair
-
----
-
-## Contact
-
-**Portfolio:** [rindrittelaku.vercel.app](https://rindrittelaku.vercel.app/)
-**LinkedIn:** [linkedin.com/in/rindrittelaku](https://www.linkedin.com/in/rindrittelaku/)
-**Email:** rindritelaku@gmail.com
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rindrittelaku.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
