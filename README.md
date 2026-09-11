@@ -1,30 +1,33 @@
-# Hey, I'm Rindrit 👋
+# Rindrit Telaku
 
-**Data & AI Engineer · Backend Builder**
+**Data & AI Engineer** — Pipelines, retrieval systems, backend infrastructure
 
-I build reliable systems that turn raw data into useful products.
-
-Currently working as a **Junior Ingestion Specialist at ProQu**, focused on data pipelines, ETL, AWS, and retrieval systems.
-
-## 🛠️ Tools I Use
-
-* **Languages:** Python · TypeScript · SQL
-* **Cloud:** AWS · S3 · Glue · Athena
-* **Data:** ETL · dbt · DuckDB · Pandas
-* **AI:** RAG · FAISS · LangChain · Ollama
-* **Backend:** FastAPI · Docker
-* **Analytics:** Streamlit · Altair
-
-## 🚀 What I Build
-
-Data pipelines, backend systems, analytics tools, and AI-powered retrieval systems.
-
-## 🤝 Connect With Me
-
-**Portfolio:** https://rindrittelaku.vercel.app
-**LinkedIn:** https://www.linkedin.com/in/rindrittelaku/
-**Email:** [rindritelaku@gmail.com](mailto:rindritelaku@gmail.com)
+Junior Ingestion Specialist at ProQu, building data pipelines, ETL processes, and AWS-based retrieval systems. I focus on making raw data reliable, queryable, and useful in production.
 
 ---
 
-*Building with data. Learning by building.*
+## Stack
+
+**Languages** Python · TypeScript · SQL
+**Cloud** AWS (S3, Glue, Athena)
+**Data** ETL · dbt · DuckDB · Pandas
+**AI / Retrieval** RAG · FAISS · LangChain · Ollama
+**Backend** FastAPI · Docker
+**Analytics** Streamlit · Altair
+
+---
+
+## Selected Work
+
+- **rag_terminal** — terminal-based retrieval-augmented generation tool built on FAISS and LangChain
+- **FovIQ** — Python project (add a one-line description of what this does and what problem it solves)
+- **transit-lens** — Python project (add a one-line description)
+- **mymail** — JavaScript project (add a one-line description)
+
+---
+
+## Contact
+
+**Portfolio:** [rindrittelaku.vercel.app](https://rindrittelaku.vercel.app/)
+**LinkedIn:** [linkedin.com/in/rindrittelaku](https://www.linkedin.com/in/rindrittelaku/)
+**Email:** rindritelaku@gmail.com
