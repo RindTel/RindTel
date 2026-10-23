@@ -1,7 +1,7 @@
 # Rindrit Telaku
 DATA & AI Engineer - Pipelines , Retrieval Systems, Backend Infrastructures
 
-Building reliable systems that turn raw data into useful products — data pipelines, ETL, and AWS-based retrieval systems.
+Building reliable systems that turn raw data into useful products — data pipelines, ETL, and AWS based retrieval systems.
 
 ## Tech Stack
 
